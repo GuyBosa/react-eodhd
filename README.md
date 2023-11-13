@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
 This progressive web app was built with Axios, jwt-decode and [ReactJs](https://github.com/facebook/create-react-app).
+![screencapture-localhost-3000-login-2023-11-13-20_25_35](https://github.com/GuyBosa/react-eodhd/assets/40579537/c9aaf95c-ca00-405c-9f69-a19008aec0e2)
 
 ## Git
 Make sure you have [Git] installed on your PC. See https://git-scm.com/downloads for help. 
